@@ -4,8 +4,8 @@ var isCovidCertificateEnabled = false; // COVID-сертификат
 
 // Общее
 var birthdate = "07.08.2003"; // Дата рождения
-var fullname = "Долгов Нiкiта Витальович" // ФИО
-var name = "Нiкiта" // Имя
+var fullname = "Долгов Микита Витальович" // ФИО
+var name = "Микита" // Имя
 
 // Паспорт
 var passport_id = "543624234" // Номер паспорта
