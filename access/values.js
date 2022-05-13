@@ -4,7 +4,7 @@ var isCovidCertificateEnabled = false; // COVID-сертификат
 
 // Общее
 var birthdate = "07.08.2003"; // Дата рождения
-var fullname = "Долгов Микита Витальович" // ФИО
+var fullname = "Ебанько Микита Витальович" // ФИО
 var name = "Микита" // Имя
 
 // Паспорт
