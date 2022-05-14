@@ -3,7 +3,7 @@ var isRightsEnabled = true; // Права
 var isCovidCertificateEnabled = false; // COVID-сертификат
 
 // Общее
-var birthdate = "07.08.2003"; // Дата рождения
+var birthdate = "07.08.2002"; // Дата рождения
 var fullname = "Баскаков Микита Вiталiйович" // ФИО
 var name = "Микита" // Имя
 
