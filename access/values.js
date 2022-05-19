@@ -1,6 +1,6 @@
 // Активировать документы (true - включены, false - отключены)
-var isRightsEnabled = false; // Права
-var isCovidCertificateEnabled = false; // COVID-сертификат
+var isRightsEnabled = true; // Права
+var isCovidCertificateEnabled = true; // COVID-сертификат
 
 // Общее
 var birthdate = "07.08.2002"; // Дата рождения
