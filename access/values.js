@@ -3,12 +3,12 @@ var isRightsEnabled = false; // Права
 var isCovidCertificateEnabled = true; // COVID-сертификат
 
 // Общее
-var birthdate = "02.11.1998"; // Дата рождения
-var fullname = "Dolgov Artem" // ФИО
-var name = "Artem" // Имя
+var birthdate = "07.08.2002"; // Дата рождения
+var fullname = "Баскаков Микита" // ФИО
+var name = "Микита" // Имя
 
 // Паспорт
-var passport_id = "UADON" // Номер паспорта
+var passport_id = "0086532977" // Номер паспорта
 
 // КПП
 var kpp_id = "8549342091" // ИНН
