@@ -1,17 +1,17 @@
 // Активировать документы (true - включены, false - отключены)
 var isRightsEnabled = false; // Права
-var isCovidCertificateEnabled = true; // COVID-сертификат
+var isCovidCertificateEnabled = false; // COVID-сертификат
 
 // Общее
 var birthdate = "07.08.2002"; // Дата рождения
-var fullname = "Баскаков Микита" // ФИО
-var name = "Микита" // Имя
+var fullname = "Бacкaкoв Hикитa" // ФИО
+var name = "Микитa" // Имя
 
 // Паспорт
-var passport_id = "0086532977" // Номер паспорта
+var passport_id = "1197643088" // Номер паспорта
 
 // КПП
-var kpp_id = "8549342091" // ИНН
+var kpp_id = "85493421" // ИНН
 
 // Права
 var rights_valid_until = "20.08.2024" // Права "Дійсні до"
