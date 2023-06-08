@@ -3,7 +3,7 @@ var isRightsEnabled = false; // Права
 var isCovidCertificateEnabled = false; // COVID-сертификат
 
 // Общее
-var birthdate = "12.01.2003"; // Дата рождения
+var birthdate = "12.01.2004"; // Дата рождения
 var fullname = "Веспуччи Иван" // ФИО
 var name = "Иван" // Имя
 
