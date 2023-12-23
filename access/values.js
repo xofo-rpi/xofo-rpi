@@ -3,9 +3,9 @@ var isRightsEnabled = false; // Права
 var isCovidCertificateEnabled = false; // COVID-сертификат
 
 // Общее
-var birthdate = "12.01.2004"; // Дата рождения
-var fullname = "Веспуччи Иван" // ФИО
-var name = "Иван" // Имя
+var birthdate = "20.04.2004"; // Дата рождения
+var fullname = "Чазова Каміла Олексіївна" // ФИО
+var name = "Каміла" // Имя
 
 // Паспорт
 var passport_id = "1197643058" // Номер паспорта
